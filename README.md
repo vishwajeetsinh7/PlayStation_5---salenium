@@ -22,7 +22,7 @@ D) in most of element selector use full xpath OR xpath
                
                
                
-               for more info refer to very imformative selenium documantation:
+               for more info refer to very informative selenium documantation:
                https://www.selenium.dev/documentation/
 
 1) open main link
